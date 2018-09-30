@@ -1930,8 +1930,6 @@ body {
 
 .main-wrapper-first {
   width: 100%;
-  margin: 0 auto;
-  margin-top: 6rem;
 }
 
 @media (min-width: 1200px) {
