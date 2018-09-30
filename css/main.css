@@ -2087,6 +2087,18 @@ body {
   height: 490px;
 }
 
+.title-section {
+  margin-top: 10px;
+}
+
+.title-section h2 {
+  font-size: 28px;
+  font-weight: 100;
+  line-height: 1em;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
 .banner-content {
   margin-top: 50px;
 }
