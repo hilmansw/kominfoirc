@@ -1976,9 +1976,9 @@ body {
 }
 
 .p1-gradient-bg, .primary-btn:after, .overlay-bg, .owl-dot.active, .service-area .single-service .overlay-content {
-  background-image: -moz-linear-gradient(0deg, #3224b0 0%, #be5ede 100%);
-  background-image: -webkit-linear-gradient(0deg, #3224b0 0%, #be5ede 100%);
-  background-image: -ms-linear-gradient(0deg, #3224b0 0%, #be5ede 100%);
+  background-image: -moz-linear-gradient(0deg, #fcc02e 0%, #fcc02e 100%);
+  background-image: -webkit-linear-gradient(0deg, #fcc02e 0%, #fcc02e 100%);
+  background-image: -ms-linear-gradient(0deg, #fcc02e 0%, #fcc02e 100%);
 }
 
 .p2-gradient-bg {
