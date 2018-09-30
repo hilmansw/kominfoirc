@@ -2091,7 +2091,6 @@ body {
 
 .banner-content {
   margin-top: 50px;
-  margin-bottom: 20px;
 }
 
 .banner-content h1 {
@@ -2099,6 +2098,7 @@ body {
   font-weight: 100;
   line-height: 1.25em;
   color: #fff;
+  margin-bottom: 1.5em;
 }
 
 .banner-content h4 {
