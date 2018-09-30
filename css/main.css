@@ -1935,20 +1935,19 @@ body {
 
 @media (min-width: 1200px) {
   .main-wrapper-first {
-    width: 80%;
+    width: 100%;
   }
 }
 
 @media (max-width: 1199px) {
   .main-wrapper-first {
-    width: 90%;
+    width: 100%;
   }
 }
 
 @media (max-width: 767px) {
   .main-wrapper-first {
-    margin-top: 3rem;
-    width: 97%;
+    width: 100%;
   }
 }
 
