@@ -2084,11 +2084,11 @@ body {
 }
 
 .banner-area .height {
-  height: 780px;
+  height: 100%; // 780px
 }
 
 .banner-area .generic-height {
-  height: 640px;
+  height: 100%; // 640px
 }
 
 .title-section {
