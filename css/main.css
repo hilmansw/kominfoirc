@@ -23,11 +23,7 @@
   /* Mozilla Firefox 19+ */
   color: #777777;
   opacity: 1;
-  font-weight: 300;
-}
-
-:-ms-input-placeholder {
-  /* Internet Explorer 10-11 */
+  font-weight: 300;ehiInternet Explorer 10-11 */
   color: #777777;
   font-weight: 300;
 }
@@ -2084,11 +2080,11 @@ body {
 }
 
 .banner-area .height {
-  height: 100%; // 780px
+  height: 780px; // 780px
 }
 
 .banner-area .generic-height {
-  height: 100%; // 640px
+  height: 640px; // 640px
 }
 
 .title-section {
